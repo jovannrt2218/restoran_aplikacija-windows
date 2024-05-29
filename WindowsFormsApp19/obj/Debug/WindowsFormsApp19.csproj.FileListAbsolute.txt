@@ -1,0 +1,111 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Jovan\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.AdminPanel.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.JelaForma.resources
+C:\Users\Administrator\Desktop\New folder\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.PrilogForma.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.AdminPanel.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.dodatakforma.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.JelaForma.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.PrilogForma.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.restoranforma.resources
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.AdminPanel.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.dodatakforma.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.JelaForma.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.PrilogForma.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.restoranforma.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.rezervacijaforma.resources
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\New folder\new\Copy of WindowsFormsApp19 v\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Korisnikforma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.AdminPanel.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.dodatakforma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Dodavanje.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.JelaForma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Korisnikforma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.PrilogForma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Restoranforma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.rezervacijaforma.resources
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\radovan.brajovic\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Jovan\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.AdminPanel.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.dodatakforma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Dodavanje.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form4.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.JelaForma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Korisnikforma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.PrilogForma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Restoranforma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.rezervacijaforma.resources
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Jovan\Desktop\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
